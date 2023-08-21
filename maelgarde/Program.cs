@@ -81,6 +81,7 @@ public class Grade
 
     public DateTime DateFind { get; set; }
     public string Nom { get; set; }
+    public string Garde { get; set; }
 }
 
 public class Gardes
